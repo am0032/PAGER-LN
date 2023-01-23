@@ -3,11 +3,6 @@ This GitHub repository contains the code for a modern day pager. The pager utili
 
 This project started as a gift for someone :)
 
-Features:
-Texting without a personal data connection,
-Rough tracking of the pager without without a gps module,
-sending SOS signals
-
 
 
 
