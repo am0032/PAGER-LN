@@ -8,7 +8,7 @@ This project started as a gift for someone <3
 
 The devce uses an ESP32 camera board as the pager hardware which reads and sends data.The ESP32 board is programmed by an arduino.
 
-The connections between arduino and the esp 32 board is given below.
+
 
 
 
