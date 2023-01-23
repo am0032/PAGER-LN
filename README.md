@@ -15,6 +15,6 @@ This project started as a gift for someone :)
 
 
 
-The project originated as an idea from this tutorial( https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/) which lets u control an led with the help of a telegram bot
+The project originated as an idea from this tutorial( https://randomnerdtutorials.com/telegram-control-esp32-esp8266-nodemcu-outputs/) which lets u control an led with the help of a telegram bot.
 
 This project uses the univeral telegram bot library : https://github.com/witnessmenow/Universal-Arduino-Telegram-Bot/blob/master/examples/ESP8266/FlashLED/FlashLED.ino
