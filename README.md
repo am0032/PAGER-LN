@@ -3,7 +3,7 @@ This GitHub repository contains the code for a modern-day pager. The pager utili
 
 Several other features are being implemented right now.
 
-This project started as a gift for someone.
+This project started as a gift.
 
 
 
