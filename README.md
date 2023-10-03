@@ -13,7 +13,8 @@ The device uses a nodemcu board as the mainboard.
 
 
 The device is fit inside an old power bank shell:  
-![image](https://github.com/am0032/PAGER-LN/assets/123314532/7b229064-6731-4636-9ebf-4ed4cb2a133c)
+![image](https://github.com/am0032/PAGER-LN/assets/123314532/6a241910-412f-47b5-b8fa-b9beaf5882a2)
+
 
 
 
